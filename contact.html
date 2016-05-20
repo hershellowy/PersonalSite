@@ -15,8 +15,55 @@
 	</nav>
 	</div>
 
-	<h1>CONTACT</h1>
-	<h2>718-635-1718</h2>
-	<h3>hershylowy1@gmail.com</h3>
+	<h1> CONTACT ME </h1>
+
+	<form id="contactform" action="" method="get">
+	</form>
+
+	<table>
+		<tr>
+			<td> NAME:</td>
+			<td> <input type="text" name="userName" id="userName" placeholder="Enter your name here"/> </td>
+			
+		</tr>
+		<tr>
+			<td>Password </td>
+			<td> <input type="passowrd" name="pass" id="pass" placeholder="Enter your Passowrd Here"/>  </td>
+		</tr>
+		<tr>
+			<td> Class Days </td>
+			<td> <input type="checkbox" name="classday" value="m"/>M</td>
+			<td> <input type="checkbox" name="classday" value="t"/>T </td>
+			<td> <input type="checkbox" name="classday" value="w"/>W </td>
+			<td> <input type="checkbox" name="classday" value="th"/>Th </td>
+		</tr>
+		<tr>
+			<td>Birth Month</td>
+			<td>
+				<select name="birthMonth">
+					<option value="Jan">Jan</option>
+					<option value="Feb">Feb</option>
+					
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td>Gender</td>
+			<td>
+				<input type="radio" name="gender" value="male"/> Male 
+				<input type="radio" name="gender" value="female"/> Female
+			</td>
+		</tr>
+		<tr>
+			<td>Messege</td>
+			<td>
+				<textarea name="userMessage"></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"> </td>
+		</tr>
+	</table>
+
 </body>
 </html>
