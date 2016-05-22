@@ -1,0 +1,4 @@
+•	 “go to top of page” id tag – x working 
+•	Password box – x working 
+•	In contact form, days select – disorder 
+•	CV Page – Table disorder (2016) 
