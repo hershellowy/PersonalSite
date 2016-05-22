@@ -1,4 +1,4 @@
-•	 “go to top of page” id tag – x working 
-•	Password box – x working 
-•	In contact form, days select – disorder 
-•	CV Page – Table disorder (2016) 
+•	web dev page, “go to top of page” id tag – x working 
+•	contact page, Password box – x working 
+•	contact form, days select – disorder 
+•	CV Page – how to add 3d collomn for "experience" colspan 3 
